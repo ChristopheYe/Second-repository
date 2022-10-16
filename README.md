@@ -1,6 +1,6 @@
 # DM2-ML : Randomized optimization
 
-URL to have access to all the codes and the dataset :
+URL to have access to all the codes and the dataset : https://github.com/ChristopheYe/Second-repository.git
 
 I. PROJECT'S TITLE
 
@@ -35,7 +35,7 @@ I used these 4 algorithms on 3 different problems :
 
 Second part : Randomized optimisation algorithm applied on Neural Network
 Dataset used : Movie Dataset.csv
-I want to know if a movie got an award or no.
+I want to know if a movie got an award or no and I will try which randomized optimization algorithm performs the best.
 
 III. HOW TO INSTALL AND RUN THE PROJECT
 
